@@ -23,7 +23,7 @@ class ReverseArray{
 
 
  //two pointer method
-      /* int left=0;
+       int left=0;
        int right=n-1;
 
        while(left<right){
